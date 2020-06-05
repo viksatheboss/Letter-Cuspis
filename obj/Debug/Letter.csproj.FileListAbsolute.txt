@@ -1,0 +1,10 @@
+F:\Users\Hp\source\repos\Letter\bin\Debug\Letter.exe.config
+F:\Users\Hp\source\repos\Letter\bin\Debug\Letter.exe
+F:\Users\Hp\source\repos\Letter\bin\Debug\Letter.pdb
+F:\Users\Hp\source\repos\Letter\obj\Debug\Letter.csprojAssemblyReference.cache
+F:\Users\Hp\source\repos\Letter\obj\Debug\Letter.Form1.resources
+F:\Users\Hp\source\repos\Letter\obj\Debug\Letter.Properties.Resources.resources
+F:\Users\Hp\source\repos\Letter\obj\Debug\Letter.csproj.GenerateResource.cache
+F:\Users\Hp\source\repos\Letter\obj\Debug\Letter.csproj.CoreCompileInputs.cache
+F:\Users\Hp\source\repos\Letter\obj\Debug\Letter.exe
+F:\Users\Hp\source\repos\Letter\obj\Debug\Letter.pdb
